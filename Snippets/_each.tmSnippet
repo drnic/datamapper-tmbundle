@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.each($1) do |i|
+	<string>each($1) do |i|
 	$0
 end</string>
 	<key>name</key>
-	<string>.each</string>
+	<string>each</string>
 	<key>scope</key>
-	<string>source.ruby</string>
+	<string>source.ruby.datamapper</string>
 	<key>tabTrigger</key>
-	<string>.e</string>
+	<string>ea</string>
 	<key>uuid</key>
 	<string>22B9261F-FCD1-4179-9064-29149CF1CED7</string>
 </dict>

@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>property :$1, :${2:string}
+	<string>property :${1:property_name}, :${2:string}
 prop$0</string>
 	<key>name</key>
-	<string>property (dm)</string>
+	<string>property</string>
 	<key>scope</key>
-	<string>source.ruby</string>
+	<string>meta.ruby.datamapper.model</string>
 	<key>tabTrigger</key>
 	<string>prop</string>
 	<key>uuid</key>

@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>.count(:$0)</string>
 	<key>name</key>
-	<string>.count</string>
+	<string>count</string>
 	<key>scope</key>
-	<string>source.ruby</string>
+	<string>source.ruby.datamapper</string>
 	<key>tabTrigger</key>
 	<string>.co</string>
 	<key>uuid</key>

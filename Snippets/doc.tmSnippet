@@ -22,7 +22,7 @@
 	<key>name</key>
 	<string>doc</string>
 	<key>scope</key>
-	<string>source.ruby</string>
+	<string>source.ruby.datamapper</string>
 	<key>tabTrigger</key>
 	<string>doc</string>
 	<key>uuid</key>

@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>.all(:$0)</string>
 	<key>name</key>
-	<string>.all</string>
+	<string>all</string>
 	<key>scope</key>
-	<string>source.ruby</string>
+	<string>source.ruby.datamapper</string>
 	<key>tabTrigger</key>
 	<string>.a</string>
 	<key>uuid</key>

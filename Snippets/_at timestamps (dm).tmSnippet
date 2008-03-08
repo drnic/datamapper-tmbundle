@@ -7,11 +7,11 @@
 property :updated_at, :datetime
 property :deleted_at, :datetime</string>
 	<key>name</key>
-	<string>_at timestamps (dm)</string>
+	<string>timestamps</string>
 	<key>scope</key>
-	<string>source.ruby</string>
+	<string>source.ruby.datamapper</string>
 	<key>tabTrigger</key>
-	<string>_at</string>
+	<string>timestamps</string>
 	<key>uuid</key>
 	<string>468A0DEC-5FD2-437E-B286-158AF42CA8C2</string>
 </dict>
