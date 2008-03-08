@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>:order =&gt; "${1:created_at} desc", :$0</string>
+	<key>name</key>
+	<string>order: reverse chron</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>rchron</string>
+	<key>uuid</key>
+	<string>A5EE12AD-99BE-4A8F-8C35-179E11C54842</string>
+</dict>
+</plist>
