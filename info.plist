@@ -41,6 +41,8 @@
 			<dict>
 				<key>items</key>
 				<array>
+					<string>31C75FCD-6949-4481-9B8B-5254966EBD45</string>
+					<string>EAF28BF2-C240-46B5-B216-52A117841FDE</string>
 					<string>2898D871-99DE-41E4-B25B-C2C0CE40756B</string>
 					<string>F68DD661-EB16-465E-AE8C-48E45FF50BE7</string>
 					<string>9DD0AACE-3F13-423A-A23D-CA61171CB4BE</string>
@@ -55,6 +57,8 @@
 	<string>Datamapper</string>
 	<key>ordering</key>
 	<array>
+		<string>31C75FCD-6949-4481-9B8B-5254966EBD45</string>
+		<string>EAF28BF2-C240-46B5-B216-52A117841FDE</string>
 		<string>2898D871-99DE-41E4-B25B-C2C0CE40756B</string>
 		<string>F68DD661-EB16-465E-AE8C-48E45FF50BE7</string>
 		<string>9DD0AACE-3F13-423A-A23D-CA61171CB4BE</string>
