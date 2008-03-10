@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>count(:$0)</string>
+	<string>belongs_to :${1:object}${2:, :class_name =&gt; "${3:${1/[[:alpha:]]+|(_)/(?1::\u$0)/g}}", :foreign_key =&gt; "${4:${1}_id}"}</string>
 	<key>name</key>
-	<string>count</string>
+	<string>belongs_to</string>
 	<key>scope</key>
 	<string>source.ruby.datamapper</string>
 	<key>tabTrigger</key>
-	<string>count</string>
+	<string>bt</string>
 	<key>uuid</key>
-	<string>F68DD661-EB16-465E-AE8C-48E45FF50BE7</string>
+	<string>DC3F1283-B8CE-4816-8724-F2C2A54D7962</string>
 </dict>
 </plist>

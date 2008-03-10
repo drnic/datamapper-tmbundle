@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.all(:$0)</string>
+	<string>all(:$0)</string>
 	<key>name</key>
 	<string>all</string>
 	<key>scope</key>
 	<string>source.ruby.datamapper</string>
 	<key>tabTrigger</key>
-	<string>.a</string>
+	<string>all</string>
 	<key>uuid</key>
 	<string>9DD0AACE-3F13-423A-A23D-CA61171CB4BE</string>
 </dict>

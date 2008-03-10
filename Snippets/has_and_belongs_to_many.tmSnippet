@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>count(:$0)</string>
+	<string>has_and_belongs_to_many :${1:object}${2:, :join_table =&gt; "${3:table_name}", :foreign_key =&gt; "${4:${1}_id}"}</string>
 	<key>name</key>
-	<string>count</string>
+	<string>has_and_belongs_to_many</string>
 	<key>scope</key>
 	<string>source.ruby.datamapper</string>
 	<key>tabTrigger</key>
-	<string>count</string>
+	<string>habtm</string>
 	<key>uuid</key>
-	<string>F68DD661-EB16-465E-AE8C-48E45FF50BE7</string>
+	<string>F58498D4-8AD7-4735-907C-B30DF1D4BAC7</string>
 </dict>
 </plist>
