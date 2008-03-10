@@ -66,7 +66,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(property)\b</string>
+			<string>\b(belongs_to|has_one|has_many|has_and_belongs_to_many|property)\b</string>
 			<key>name</key>
 			<string>support.function.datamapper</string>
 		</dict>
