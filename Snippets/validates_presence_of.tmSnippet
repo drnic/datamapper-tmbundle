@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>validates_presence_of :${1:attribute}${2:, :message =&gt; "${4:$1 must not be blank}"}</string>
+	<key>name</key>
+	<string>validates_presence_of</string>
+	<key>scope</key>
+	<string>source.ruby.datamapper</string>
+	<key>tabTrigger</key>
+	<string>vp</string>
+	<key>uuid</key>
+	<string>F1011B18-A282-489C-A8E0-CAF8502BE401</string>
+</dict>
+</plist>
