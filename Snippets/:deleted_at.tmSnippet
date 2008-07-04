@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:order =&gt; [:${1:created_at}.${2:desc}]$0</string>
+	<string>property :deleted_at, ParanoidDateTime</string>
 	<key>name</key>
-	<string>:order</string>
+	<string>:deleted_at</string>
 	<key>scope</key>
 	<string>source.ruby.datamapper</string>
 	<key>tabTrigger</key>
-	<string>:order</string>
+	<string>delat</string>
 	<key>uuid</key>
-	<string>A5EE12AD-99BE-4A8F-8C35-179E11C54842</string>
+	<string>C8699B0E-4568-4015-9A62-D307EEA9F054</string>
 </dict>
 </plist>

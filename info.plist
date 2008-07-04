@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>mainMenu</key>
@@ -63,6 +63,7 @@
 		<string>F68DD661-EB16-465E-AE8C-48E45FF50BE7</string>
 		<string>9DD0AACE-3F13-423A-A23D-CA61171CB4BE</string>
 		<string>A5EE12AD-99BE-4A8F-8C35-179E11C54842</string>
+		<string>C8699B0E-4568-4015-9A62-D307EEA9F054</string>
 		<string>11D97D10-C480-487D-B551-D337303367B1</string>
 		<string>468A0DEC-5FD2-437E-B286-158AF42CA8C2</string>
 		<string>7C87BE4B-4A42-49FB-99D1-C1729C68D446</string>
