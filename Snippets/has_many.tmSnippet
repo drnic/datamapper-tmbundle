@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>has_many :${1:objects}${2:, :class_name =&gt; "${3:${1/[[:alpha:]]+|(_)/(?1::\u$0)/g}}", :foreign_key =&gt; "${4:class_name}_id"}</string>
+	<string>has n :${1:objects}</string>
 	<key>name</key>
-	<string>has_many</string>
+	<string>has n (Has Many)</string>
 	<key>scope</key>
 	<string>source.ruby.datamapper</string>
 	<key>tabTrigger</key>
