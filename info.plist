@@ -12,6 +12,8 @@
 			<string>22B9261F-FCD1-4179-9064-29149CF1CED7</string>
 			<string>EA7A74DF-C5DF-43B2-96E1-392E7E0B67B8</string>
 			<string>39CFD4F0-83F2-434C-99D9-1121FA85BF73</string>
+			<string>C8699B0E-4568-4015-9A62-D307EEA9F054</string>
+			<string>556D5DEF-57D5-4BBA-9C66-3383F64DA43C</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -26,6 +28,24 @@
 				</array>
 				<key>name</key>
 				<string>Associations</string>
+			</dict>
+			<key>556D5DEF-57D5-4BBA-9C66-3383F64DA43C</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>60CE8891-3919-4A22-BBB7-FEFD9343F349</string>
+				</array>
+				<key>name</key>
+				<string>dm_more</string>
+			</dict>
+			<key>60CE8891-3919-4A22-BBB7-FEFD9343F349</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>F1011B18-A282-489C-A8E0-CAF8502BE401</string>
+				</array>
+				<key>name</key>
+				<string>Validations</string>
 			</dict>
 			<key>BDB852A5-E043-4943-BFA7-1E582ADB5F4F</key>
 			<dict>
